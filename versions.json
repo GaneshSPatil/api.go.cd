@@ -1,12 +1,15 @@
 [
   {
+    "version": "17.5.0",
+    "location": "https://api.gocd.io/17.5.0/",
+    "type": "next"
+  },
+  {
     "version": "16.4.0",
-    "type": "next",
     "location": "https://api.go.cd/16.4.0/"
   },
   {
     "version": "16.3.0",
-    "type": "latest",
     "location": "https://api.go.cd/current/"
   },
   {

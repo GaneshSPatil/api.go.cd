@@ -1,0 +1,20 @@
+User-agent: *
+
+# Allow root and /current
+Allow: /
+Allow: /current
+Allow: /current/
+
+# Disallow versioned directories
+Disallow: /17.3.0
+Disallow: /17.5.0
+Disallow: /16.4.0
+Disallow: /16.3.0
+Disallow: /16.2.0
+Disallow: /16.1.0
+Disallow: /15.3.0
+Disallow: /15.2.0
+Disallow: /15.1.0
+Disallow: /14.4.0
+Disallow: /14.3.0
+
